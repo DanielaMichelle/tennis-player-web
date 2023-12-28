@@ -9,16 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49551e14-d30a-4ca6-b45b-9d93fe9b8577" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PlayerServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    <list default="true" id="49551e14-d30a-4ca6-b45b-9d93fe9b8577" name="Changes" comment="We have modified the pom.xml file, added a web.xml file, and created a servlet.">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PlayerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PlayerServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,11 +160,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703788001234</updated>
-      <workItem from="1703788002325" duration="2394000" />
+      <workItem from="1703788002325" duration="3293000" />
     </task>
+    <task id="LOCAL-00001" summary="We have modified the pom.xml file, added a web.xml file, and created a servlet.">
+      <option name="closed" value="true" />
+      <created>1703790799029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703790799030</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="We have modified the pom.xml file, added a web.xml file, and created a servlet." />
+    <option name="LAST_COMMIT_MESSAGE" value="We have modified the pom.xml file, added a web.xml file, and created a servlet." />
   </component>
 </project>
