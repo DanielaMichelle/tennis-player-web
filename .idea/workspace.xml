@@ -9,9 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49551e14-d30a-4ca6-b45b-9d93fe9b8577" name="Changes" comment="We have modified the pom.xml file, added a web.xml file, and created a servlet.">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" afterDir="false" />
+    <list default="true" id="49551e14-d30a-4ca6-b45b-9d93fe9b8577" name="Changes" comment="Using JSP file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/PlayerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PlayerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703788001234</updated>
-      <workItem from="1703788002325" duration="3293000" />
+      <workItem from="1703788002325" duration="4949000" />
     </task>
     <task id="LOCAL-00001" summary="We have modified the pom.xml file, added a web.xml file, and created a servlet.">
       <option name="closed" value="true" />
@@ -170,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703790799030</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Using JSP file">
+      <option name="closed" value="true" />
+      <created>1703791466210</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703791466213</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +188,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="We have modified the pom.xml file, added a web.xml file, and created a servlet." />
-    <option name="LAST_COMMIT_MESSAGE" value="We have modified the pom.xml file, added a web.xml file, and created a servlet." />
+    <MESSAGE value="Using JSP file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using JSP file" />
   </component>
 </project>

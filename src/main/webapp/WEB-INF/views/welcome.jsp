@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -6,5 +7,7 @@
     </head>
     <body>
         <h2>Welcome to the tennis player database from welcome.jsp!</h2>
+        <h3>Player name: <i><%= request.getAttribute("name") %></i> </h3>
+        <h3>Player name: <i>${name}</i> </h3>
     </body>
 </html>
