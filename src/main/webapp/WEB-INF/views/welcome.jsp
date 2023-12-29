@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -6,8 +5,9 @@
         <title>Tennis Player DB</title>
     </head>
     <body>
-        <h2>Welcome to the tennis player database from welcome.jsp!</h2>
-        <h3>Player name: <i><%= request.getAttribute("name") %></i> </h3>
-        <h3>Player name: <i>${name}</i> </h3>
+        <form action="/tennis_player_web_war/player.do" method="POST">
+            <input type="text" name="name">
+            <input type="submit" value="Enter">
+        </form>
     </body>
 </html>
