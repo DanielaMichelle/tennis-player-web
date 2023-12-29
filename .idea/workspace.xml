@@ -9,11 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49551e14-d30a-4ca6-b45b-9d93fe9b8577" name="Changes" comment="Passing Parameters with GET request.">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/info.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PlayerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PlayerServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" afterDir="false" />
+    <list default="true" id="49551e14-d30a-4ca6-b45b-9d93fe9b8577" name="Changes" comment="Configuring a Spring MVC Application.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/datajek/springmvc/TennisController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -163,7 +160,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703788001234</updated>
-      <workItem from="1703788002325" duration="11343000" />
+      <workItem from="1703788002325" duration="13995000" />
     </task>
     <task id="LOCAL-00001" summary="We have modified the pom.xml file, added a web.xml file, and created a servlet.">
       <option name="closed" value="true" />
@@ -189,7 +186,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703793510675</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="POST request">
+      <option name="closed" value="true" />
+      <created>1703856927803</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703856927804</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Configuring a Spring MVC Application.">
+      <option name="closed" value="true" />
+      <created>1703859013934</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703859013934</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +212,8 @@
     <MESSAGE value="We have modified the pom.xml file, added a web.xml file, and created a servlet." />
     <MESSAGE value="Using JSP file" />
     <MESSAGE value="Passing Parameters with GET request." />
-    <option name="LAST_COMMIT_MESSAGE" value="Passing Parameters with GET request." />
+    <MESSAGE value="POST request" />
+    <MESSAGE value="Configuring a Spring MVC Application." />
+    <option name="LAST_COMMIT_MESSAGE" value="Configuring a Spring MVC Application." />
   </component>
 </project>
