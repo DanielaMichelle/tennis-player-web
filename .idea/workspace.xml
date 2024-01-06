@@ -9,10 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49551e14-d30a-4ca6-b45b-9d93fe9b8577" name="Changes" comment="workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/datajek/springdata/Athlete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/datajek/springmvc/AthleteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/add-player-form.jsp" afterDir="false" />
+    <list default="true" id="49551e14-d30a-4ca6-b45b-9d93fe9b8577" name="Changes" comment="Spring MVC Form Tags">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/player-confirmation.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/datajek/springdata/Athlete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/datajek/springdata/Athlete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/add-player-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/add-player-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main-menu.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +167,7 @@
       <updated>1703788001234</updated>
       <workItem from="1703788002325" duration="22483000" />
       <workItem from="1704568583504" duration="1841000" />
-      <workItem from="1704573720716" duration="1296000" />
+      <workItem from="1704573720716" duration="3989000" />
     </task>
     <task id="LOCAL-00001" summary="We have modified the pom.xml file, added a web.xml file, and created a servlet.">
       <option name="closed" value="true" />
@@ -255,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704573886333</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Spring MVC Form Tags">
+      <option name="closed" value="true" />
+      <created>1704575262625</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704575262625</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +283,8 @@
     <MESSAGE value="Model: Learn how to pass data between controllers and views." />
     <MESSAGE value="Model - Part 2: Player class&#10;                PlayerService class&#10;                Search player by name&#10;                Defining beans&#10;                Dependency injection&#10;                Adding search functionality&#10;                Adding data to model&#10;                Updating view page&#10;                GET vs POST request" />
     <MESSAGE value="workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
+    <MESSAGE value="Spring MVC Form Tags&#10;@RequestMapping at class level&#10;Spring MVC form tags&#10;Textbox form tag&#10;Data binding&#10;@ModelAttribute annotation" />
+    <MESSAGE value="Spring MVC Form Tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring MVC Form Tags" />
   </component>
 </project>
