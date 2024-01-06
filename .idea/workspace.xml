@@ -9,9 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49551e14-d30a-4ca6-b45b-9d93fe9b8577" name="Changes" comment="TennisController created.">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main-menu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/datajek/springmvc/TennisController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/datajek/springmvc/TennisController.java" afterDir="false" />
+    <list default="true" id="49551e14-d30a-4ca6-b45b-9d93fe9b8577" name="Changes" comment="View main-menu.jsp used in TennisController">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/datajek/springmvc/PlayerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/player-detail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/search-player-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main-menu.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703788001234</updated>
-      <workItem from="1703788002325" duration="16228000" />
+      <workItem from="1703788002325" duration="19401000" />
     </task>
     <task id="LOCAL-00001" summary="We have modified the pom.xml file, added a web.xml file, and created a servlet.">
       <option name="closed" value="true" />
@@ -211,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703877136028</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="View main-menu.jsp used in TennisController">
+      <option name="closed" value="true" />
+      <created>1703878177876</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703878177876</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +235,7 @@
     <MESSAGE value="POST request" />
     <MESSAGE value="Configuring a Spring MVC Application." />
     <MESSAGE value="TennisController created." />
-    <option name="LAST_COMMIT_MESSAGE" value="TennisController created." />
+    <MESSAGE value="View main-menu.jsp used in TennisController" />
+    <option name="LAST_COMMIT_MESSAGE" value="View main-menu.jsp used in TennisController" />
   </component>
 </project>
