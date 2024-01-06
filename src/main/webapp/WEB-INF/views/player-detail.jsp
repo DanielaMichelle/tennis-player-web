@@ -8,12 +8,14 @@
 <hr>
 
 <br><br>
-
-<%--Player name : ${name}--%>
 Player name : <%= request.getAttribute("name")%>
+<br><br>
+DoB: <%= request.getAttribute("dob")%>
+<br><br>
+Country: <%= request.getAttribute("country")%>
+<br><br>
+Titles: <%= request.getAttribute("titles")%>
 
-<%--Player name : ${param.playerName}--%>
-<%--Player name : <%= request.getParameter("playerName") %>--%>
 
 </body>
 </html>
