@@ -8,9 +8,12 @@
 <hr>
 
 <br><br>
-<%--Player name : ＄{param.playerName}--%>
-<%--request.getAttribute("playerName")--%>
-Player name : <%= request.getParameter("playerName") %>
+
+<%--Player name : ${name}--%>
+Player name : <%= request.getAttribute("name")%>
+
+<%--Player name : ${param.playerName}--%>
+<%--Player name : <%= request.getParameter("playerName") %>--%>
 
 </body>
 </html>
