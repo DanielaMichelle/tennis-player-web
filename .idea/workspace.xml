@@ -9,8 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49551e14-d30a-4ca6-b45b-9d93fe9b8577" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="49551e14-d30a-4ca6-b45b-9d93fe9b8577" name="Changes" comment="workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/datajek/springdata/Athlete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/datajek/springmvc/AthleteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/add-player-form.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -163,6 +165,7 @@
       <updated>1703788001234</updated>
       <workItem from="1703788002325" duration="22483000" />
       <workItem from="1704568583504" duration="1841000" />
+      <workItem from="1704573720716" duration="1296000" />
     </task>
     <task id="LOCAL-00001" summary="We have modified the pom.xml file, added a web.xml file, and created a servlet.">
       <option name="closed" value="true" />
@@ -244,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704570022379</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="workspace.xml">
+      <option name="closed" value="true" />
+      <created>1704573886333</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704573886333</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +272,7 @@
     <MESSAGE value="HTML Forms" />
     <MESSAGE value="Model: Learn how to pass data between controllers and views." />
     <MESSAGE value="Model - Part 2: Player class&#10;                PlayerService class&#10;                Search player by name&#10;                Defining beans&#10;                Dependency injection&#10;                Adding search functionality&#10;                Adding data to model&#10;                Updating view page&#10;                GET vs POST request" />
-    <option name="LAST_COMMIT_MESSAGE" value="Model - Part 2: Player class&#10;                PlayerService class&#10;                Search player by name&#10;                Defining beans&#10;                Dependency injection&#10;                Adding search functionality&#10;                Adding data to model&#10;                Updating view page&#10;                GET vs POST request" />
+    <MESSAGE value="workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
   </component>
 </project>
